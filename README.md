@@ -44,7 +44,7 @@ Initialize rosdep
 
 ```rosdep update```
 
-# To check Ros installation 
+# To start the ROS (master node).
 ```roscore```
 
 ![image](https://github.com/user-attachments/assets/a20ccf9b-d01d-40b9-b181-74a5545efb0c)
